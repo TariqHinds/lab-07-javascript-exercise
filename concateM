@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <script>
+var num1 = prompt ("Give me a number");
+var num2 = prompt ("Give me another number");
+var num3 = prompt ("Give me another number");
+var num4 = prompt ("Give me another number");
+//var result = parseFloat(num1+num2) * parseFloat(num3+num4)
+var result = parseFloat(num1+num2*num3+num4);
+console.log(result);
+
+    </script>
+</head>
+<body>
+    
+</body>
+</html>
