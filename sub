@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <script>
+var num1 = prompt ("Give me a number");
+var num2 = prompt ("Give me another number");
+var resultD = parseFloat(num1) - parseFloat(num2)
+console.log(resultD);
+
+    </script>
+</head>
+<body>
+    
+</body>
+</html>
