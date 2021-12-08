@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <script>
+var thing = prompt ("Favorite character?");
+console.group();
+console.log(thing);
+console.log(thing + "!")
+console.log(thing + "!!")
+console.log(thing + "!!!")
+console.groupEnd(); 
+
+
+    </script>
+</head>
+<body>
+    
+</body>
+</html>
+
